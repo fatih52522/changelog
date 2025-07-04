@@ -95,7 +95,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/fatih5252',
             label: 'GitHub',
             position: 'right',
           },
@@ -114,19 +114,23 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Useful Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Disocrd (scootkit german)',
+                href: 'https://discord.gg/jzPpfjUAct',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Discord (scootkit englisch)',
+                href: 'https://discord.gg/RV4xSSdqT6'
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Discord (changelog)',
+                href: 'https://discord.gg/XZGGb27zdE',
+              },
+              {
+                label: 'SCNX',
+                href: 'https://scnx.app/referral?code=MHtz3IGIns4a8ntj0Dc7sk8kwnqWIP2D2SIC',
               },
             ],
           },
