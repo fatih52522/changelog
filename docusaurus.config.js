@@ -142,12 +142,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'SCNX Docs',
+                href: 'https://docs.scnx.xyz',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'SCNX tips',
+                href: 'https://scnx.tips',
+              },
+              {
+                label: 'SCNX Faq',
+                href: 'https://faq.scnx.app',
               },
             ],
           },
