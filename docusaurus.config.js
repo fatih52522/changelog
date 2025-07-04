@@ -94,7 +94,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            type: localeDropdown,
+            type: 'localeDropdown',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
