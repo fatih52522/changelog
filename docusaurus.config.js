@@ -119,6 +119,15 @@ const config = {
         style: 'dark',
         links: [
           {
+            title: 'Changelog',
+            items: [
+              {
+                label: 'Disclaimer',
+                to: '/disclaimer',
+              },
+            ],
+          },
+          {
             title: 'Useful Links',
             items: [
               {
