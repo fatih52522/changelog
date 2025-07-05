@@ -95,8 +95,11 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/disclaimer', label: 'DISCLAIMER', position: 'left'},
+          { 
+            to: '/disclaimer', 
+            label: 'DISCLAIMER', 
+            position: 'left'
+          },
           {
             href: 'https://github.com/fatih5252',
             label: 'GitHub',
