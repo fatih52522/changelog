@@ -88,10 +88,8 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            to: '/docs/category/changelog',
+            label: 'Intro',
           },
           {
             type: 'localeDropdown',
