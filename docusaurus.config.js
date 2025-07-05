@@ -94,6 +94,11 @@ const config = {
             label: 'Tutorial',
           },
           {
+            to: '/src/pages/disclaimer.md',
+            label: 'DISCLAIMER',
+            position: 'left',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
