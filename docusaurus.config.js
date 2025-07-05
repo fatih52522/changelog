@@ -94,15 +94,11 @@ const config = {
             label: 'Tutorial',
           },
           {
-            to: '/src/pages/disclaimer.md',
-            label: 'DISCLAIMER',
-            position: 'left',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/src/pages/disclaimer.md', label: 'DISCLAIMER', position: 'left'},
           {
             href: 'https://github.com/fatih5252',
             label: 'GitHub',
