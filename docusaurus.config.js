@@ -130,7 +130,7 @@ const config = {
                 href: 'https://discord.gg/jzPpfjUAct',
               },
               {
-                label: 'Discord (scootkit englisch)',
+                label: 'Discord (scootkit english)',
                 href: 'https://discord.gg/RV4xSSdqT6'
               },
               {
