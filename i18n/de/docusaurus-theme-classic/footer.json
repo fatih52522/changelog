@@ -4,15 +4,15 @@
     "description": "The title of the footer links column with title=Changelog in the footer"
   },
   "link.title.Useful Links": {
-    "message": "Useful Links",
+    "message": "nützliche Links",
     "description": "The title of the footer links column with title=Useful Links in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Mehr",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Disclaimer": {
-    "message": "Disclaimer",
+    "message": "Haftungsausschluss",
     "description": "The label of footer link with label=Disclaimer linking to /disclaimer"
   },
   "link.item.label.Disocrd (scootkit german)": {
