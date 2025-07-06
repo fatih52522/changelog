@@ -49,17 +49,6 @@ const config = {
     }
   },
 
-  plugins: [
-  [
-    require.resolve("@cmfcmf/docusaurus-search-local"),
-    {
-      indexDocs: true,
-      indexPages: true,
-      language: ["en", "de"],
-    },
-  ],
-],
-
   presets: [
     [
       'classic',
@@ -97,11 +86,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        appId: '88KR6IGH9C',
-        apiKey: 'd80a726f51b485abd67b2fbca4c7e24a',
-        indexName: 'changelog',
-      },
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
