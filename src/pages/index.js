@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro"><translate>
-            Go to Changelog!</translate>
+            to="/docs/intro">
+            Go to Changelog!
           </Link>
         </div>
       </div>
@@ -34,11 +34,10 @@ export default function Home() {
     <Layout
     
       title={`Changelog - ${siteConfig.title}`}
-      description="welcome to SCNX Changelog!"> <Translate>
+      description="welcome to SCNX Changelog!">
       <HomepageHeader />
       <main>
       </main>
-      </Translate>
     </Layout>
   );
 }
