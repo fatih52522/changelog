@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://www.fatih-sim.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -104,7 +104,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/fatih5252',
+            href: 'https://github.com/fatih5252/changelog',
             label: 'GitHub',
             position: 'right',
           },
