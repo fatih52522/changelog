@@ -1,4 +1,4 @@
-import clsx from 'clsx';
+/*import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
@@ -16,4 +16,4 @@ function Feature({Svg, title, description}) {
       </div>
     </div>
   );
-}
+}*/
