@@ -19,7 +19,7 @@
     "message": "Disocrd (scootkit Deutsch)",
     "description": "The label of footer link with label=Disocrd (scootkit german) linking to https://discord.gg/jzPpfjUAct"
   },
-  "link.item.label.Discord (scootkit englisch)": {
+  "link.item.label.Discord (scootkit english)": {
     "message": "Discord (scootkit englisch)",
     "description": "The label of footer link with label=Discord (scootkit englisch) linking to https://discord.gg/RV4xSSdqT6"
   },
