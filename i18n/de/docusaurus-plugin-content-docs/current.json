@@ -8,7 +8,7 @@
     "description": "The label for category changelog in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.changelog.link.generated-index.description": {
-    "message": "Welcome to changelog! Select which version you want to see.",
+    "message": "Wilkommen in Changelog! Wähle welche version du sehen möchtest.",
     "description": "The generated-index page description for category changelog in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Beta": {
@@ -20,7 +20,7 @@
     "description": "The generated-index page description for category Beta in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stable": {
-    "message": "Stable",
+    "message": "Normal version",
     "description": "The label for category Stable in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {

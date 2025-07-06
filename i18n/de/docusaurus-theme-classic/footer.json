@@ -16,7 +16,7 @@
     "description": "The label of footer link with label=Disclaimer linking to /disclaimer"
   },
   "link.item.label.Disocrd (scootkit german)": {
-    "message": "Disocrd (scootkit german)",
+    "message": "Disocrd (scootkit Deutsch)",
     "description": "The label of footer link with label=Disocrd (scootkit german) linking to https://discord.gg/jzPpfjUAct"
   },
   "link.item.label.Discord (scootkit englisch)": {
@@ -44,7 +44,7 @@
     "description": "The label of footer link with label=SCNX Faq linking to https://faq.scnx.app"
   },
   "copyright": {
-    "message": "Copyright © 2025 My Project, Inc. Built with Docusaurus.",
+    "message": "Copyright © 2025 My Project, Inc. Gebaut mit Docusaurus.",
     "description": "The footer copyright"
   }
 }

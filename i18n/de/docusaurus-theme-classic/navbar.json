@@ -8,7 +8,7 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Intro": {
-    "message": "Intro",
+    "message": "Einführung",
     "description": "Navbar item with label Intro"
   },
   "item.label.GitHub": {
