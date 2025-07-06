@@ -1,0 +1,50 @@
+{
+  "link.title.Changelog": {
+    "message": "Changelog",
+    "description": "The title of the footer links column with title=Changelog in the footer"
+  },
+  "link.title.Useful Links": {
+    "message": "Useful Links",
+    "description": "The title of the footer links column with title=Useful Links in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Disclaimer": {
+    "message": "Disclaimer",
+    "description": "The label of footer link with label=Disclaimer linking to /disclaimer"
+  },
+  "link.item.label.Disocrd (scootkit german)": {
+    "message": "Disocrd (scootkit german)",
+    "description": "The label of footer link with label=Disocrd (scootkit german) linking to https://discord.gg/jzPpfjUAct"
+  },
+  "link.item.label.Discord (scootkit englisch)": {
+    "message": "Discord (scootkit englisch)",
+    "description": "The label of footer link with label=Discord (scootkit englisch) linking to https://discord.gg/RV4xSSdqT6"
+  },
+  "link.item.label.Discord (changelog)": {
+    "message": "Discord (changelog)",
+    "description": "The label of footer link with label=Discord (changelog) linking to https://discord.gg/XZGGb27zdE"
+  },
+  "link.item.label.SCNX": {
+    "message": "SCNX",
+    "description": "The label of footer link with label=SCNX linking to https://scnx.app/referral?code=MHtz3IGIns4a8ntj0Dc7sk8kwnqWIP2D2SIC"
+  },
+  "link.item.label.SCNX Docs": {
+    "message": "SCNX Docs",
+    "description": "The label of footer link with label=SCNX Docs linking to https://docs.scnx.xyz"
+  },
+  "link.item.label.SCNX tips": {
+    "message": "SCNX tips",
+    "description": "The label of footer link with label=SCNX tips linking to https://scnx.tips"
+  },
+  "link.item.label.SCNX Faq": {
+    "message": "SCNX Faq",
+    "description": "The label of footer link with label=SCNX Faq linking to https://faq.scnx.app"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 My Project, Inc. Built with Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

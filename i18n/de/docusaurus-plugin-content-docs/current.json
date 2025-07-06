@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.changelog": {
+    "message": "changelog",
+    "description": "The label for category changelog in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.changelog.link.generated-index.description": {
+    "message": "Welcome to changelog! Select which version you want to see.",
+    "description": "The generated-index page description for category changelog in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Beta": {
+    "message": "Beta",
+    "description": "The label for category Beta in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Beta.link.generated-index.description": {
+    "message": "SCNX Beta changelog",
+    "description": "The generated-index page description for category Beta in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stable": {
+    "message": "Stable",
+    "description": "The label for category Stable in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {
+    "message": "SCNX Stable changelog",
+    "description": "The generated-index page description for category Stable in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  }
+}

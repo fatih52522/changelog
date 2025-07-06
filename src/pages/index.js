@@ -5,6 +5,7 @@ import Layout from '@theme/Layout';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -18,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Go to Changelog!
+            to="/docs/intro"><translate>
+            Go to Changelog!</translate>
           </Link>
         </div>
       </div>
@@ -31,11 +32,13 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
+    
       title={`Changelog - ${siteConfig.title}`}
-      description="welcome to SCNX Changelog!">
+      description="welcome to SCNX Changelog!"> <Translate>
       <HomepageHeader />
       <main>
       </main>
+      </Translate>
     </Layout>
   );
 }
