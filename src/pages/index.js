@@ -36,7 +36,6 @@ export default function Home() {
       description="welcome to SCNX Changelog!">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
       </main>
     </Layout>
   );
