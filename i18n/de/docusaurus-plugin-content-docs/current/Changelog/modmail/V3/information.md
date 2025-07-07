@@ -1,5 +1,5 @@
 # Informationen die du wissen solltest.
-Wenn du von der stabilen Version von Modmail zur V3-Beta wechselst, beachte bitte, dass sich diese Version noch in aktiver Entwicklung befindet. Du solltest mit Fehlern, Abstürzen und allgemeinem instabilen Verhalten rechnen. Die Beta ist nicht für den produktiven Einsatz empfohlen, besonders wenn du Modmail für wichtige oder alltägliche Kommunikation nutzt.
+Willkommen bei der V3-Modmail-Version von SCNX! Wenn du von der stabilen Version von Modmail zur V3-Beta wechselst, beachte bitte, dass sich diese Version noch in aktiver Entwicklung befindet. Du solltest mit Fehlern, Abstürzen und allgemeinem instabilen Verhalten rechnen. Die Beta ist nicht für den produktiven Einsatz empfohlen, besonders wenn du Modmail für wichtige oder alltägliche Kommunikation nutzt.
 
 Ein Beispiel: Es gab bereits Fälle, in denen der Bot eines Nutzers nach dem Wechsel zur Beta-Version nicht mehr starten konnte, weil unerwartete interne Fehler auftraten. Der Nutzer musste den Support kontaktieren und mehrere Stunden warten, bis jemand antworten und das Problem lösen konnte. Solche Situationen können jederzeit während der Nutzung der Beta-Version auftreten.
 
