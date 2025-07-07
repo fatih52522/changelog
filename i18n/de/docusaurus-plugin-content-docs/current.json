@@ -35,12 +35,20 @@
     "message": "SCNX V3 (Stabil) changelog",
     "description": "The generated-index page description for category V3 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Modmail": {
-    "message": "Modmail",
-    "description": "The label for category Modmail in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Stable": {
+    "message": "Stabil",
+    "description": "The label for category Stable in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Modmail.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {
     "message": "SCNX Modmail (Stabil) changelog",
-    "description": "The generated-index page description for category Modmail in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category Stable in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.modmail": {
+    "message": "modmail",
+    "description": "The label for category modmail in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.modmail.link.generated-index.description": {
+    "message": "Willkommen bei Modmail! Wählen Sie die Version aus, die Sie sehen möchten.",
+    "description": "The generated-index page description for category modmail in sidebar tutorialSidebar"
   }
 }
