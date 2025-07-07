@@ -20,7 +20,7 @@
     "description": "The generated-index page description for category Beta in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stable": {
-    "message": "Normal version",
+    "message": "Stabil version",
     "description": "The label for category Stable in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {

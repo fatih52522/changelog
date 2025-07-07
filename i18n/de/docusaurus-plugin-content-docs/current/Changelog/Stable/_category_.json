@@ -1,8 +1,8 @@
 {
-  "label": "Stable",
+  "label": "Stabil",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "SCNX Normal version changelog"
+    "description": "SCNX Stabil version changelog"
   }
 }
