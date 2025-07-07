@@ -364,5 +364,9 @@
   "theme.SearchPage.noResultsText": {
     "message": "Es wurden keine Dokumente gefunden",
     "description": "The paragraph for empty search result"
+  },
+  "homepage.taglineText": {
+    "message": "In diesem Projekt werden wir die neuesten Änderungen in SCNX erläutern.",
+    "description": "The tagline text displayed on the homepage"
   }
 }

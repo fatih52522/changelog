@@ -11,7 +11,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Welcome to Changelog!',
-  tagline: 'In this project, we will explain the latest changes in SCNX.',
   favicon: 'img/favico.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

@@ -13,17 +13,21 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title} {}
+          {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">
-          {siteConfig.tagline} {}
+          <Translate
+            id="homepage.taglineText"
+            description="The tagline text displayed on the homepage">
+            In this project, we will explain the latest changes in SCNX.
+          </Translate>
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/changelog">
             <Translate
-              id="homepage.goToChangelogButton" 
+              id="homepage.goToChangelogButton"
               description="Text for the 'Go to Changelog' button">
               Go to Changelog!
             </Translate>
@@ -48,7 +52,6 @@ export default function Home() {
       }>
       <HomepageHeader />
       <main>
-        {}
       </main>
     </Layout>
   );
