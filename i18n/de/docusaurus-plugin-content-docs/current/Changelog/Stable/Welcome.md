@@ -1,4 +1,0 @@
----
-title: Wilkommen
----
-Willkommen bei der stabilen Version von SCNX. Da dies ein neues Community-Projekt ist, gibt es hier momentan noch nichts zu sehen, aber die neue stabile Version wird bald hier angezeigt.
