@@ -1,8 +1,8 @@
 {
-  "label": "Modmail",
+  "label": "changelog",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "SCNX Modmail (Stable) changelog"
+    "description": "Welcome to Modmail! Select which Version you want to see."
   }
 }
