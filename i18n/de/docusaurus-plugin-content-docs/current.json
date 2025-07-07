@@ -19,12 +19,28 @@
     "message": "SCNX Beta changelog",
     "description": "The generated-index page description for category Beta in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Stable": {
-    "message": "Stabil version",
-    "description": "The label for category Stable in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Discord Bot": {
+    "message": "Discord Bot",
+    "description": "The label for category Discord Bot in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {
-    "message": "SCNX Stable changelog",
-    "description": "The generated-index page description for category Stable in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Discord Bot.link.generated-index.description": {
+    "message": "Willkommen im Discord-Bot-Bereich! Wählen Sie die Version aus, die Sie sehen möchten.",
+    "description": "The generated-index page description for category Discord Bot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.V3": {
+    "message": "V3",
+    "description": "The label for category V3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.V3.link.generated-index.description": {
+    "message": "SCNX V3 (Stabil) changelog",
+    "description": "The generated-index page description for category V3 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Modmail": {
+    "message": "Modmail",
+    "description": "The label for category Modmail in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Modmail.link.generated-index.description": {
+    "message": "SCNX Modmail (Stabil) changelog",
+    "description": "The generated-index page description for category Modmail in sidebar tutorialSidebar"
   }
 }
