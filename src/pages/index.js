@@ -13,14 +13,20 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          {siteConfig.title} {}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          {siteConfig.tagline} {}
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/changelog">
-            <Translate>Go to Changelog!</Translate>
+            <Translate
+              id="homepage.goToChangelogButton" 
+              description="Text for the 'Go to Changelog' button">
+              Go to Changelog!
+            </Translate>
           </Link>
         </div>
       </div>
@@ -33,9 +39,16 @@ export default function Home() {
   return (
     <Layout
       title={`Changelog - ${siteConfig.title}`}
-      description="welcome to SCNX Changelog!">
+      description={
+        <Translate
+          id="layout.homepageDescription"
+          description="Description meta tag for the homepage">
+          welcome to SCNX Changelog!
+        </Translate>
+      }>
       <HomepageHeader />
       <main>
+        {}
       </main>
     </Layout>
   );
