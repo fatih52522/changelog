@@ -2,6 +2,7 @@
 Wenn du von der stabilen Version von Modmail zur V3-Beta wechselst, beachte bitte, dass sich diese Version noch in aktiver Entwicklung befindet. Du solltest mit Fehlern, Abstürzen und allgemeinem instabilen Verhalten rechnen. Die Beta ist nicht für den produktiven Einsatz empfohlen, besonders wenn du Modmail für wichtige oder alltägliche Kommunikation nutzt.
 
 Ein Beispiel: Es gab bereits Fälle, in denen der Bot eines Nutzers nach dem Wechsel zur Beta-Version nicht mehr starten konnte, weil unerwartete interne Fehler auftraten. Der Nutzer musste den Support kontaktieren und mehrere Stunden warten, bis jemand antworten und das Problem lösen konnte. Solche Situationen können jederzeit während der Nutzung der Beta-Version auftreten.
+
 ![bild](./image.png) *Bildzugriff vom Benutzer gewährt*
 
 Der Zugriff auf die V3-Beta ist nicht für alle verfügbar. Aktuell ist sie nur für Nutzer mit Early Access freigeschaltet, den man durch das Erreichen von ScootKit-Mitgliedschaft Level 2 erhält. Mehr Informationen und ein Upgrade findest du hier:
