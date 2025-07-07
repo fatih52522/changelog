@@ -26,13 +26,5 @@
   "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {
     "message": "SCNX Stable changelog",
     "description": "The generated-index page description for category Stable in sidebar tutorialSidebar"
-  },
-  "title": {
-    "message": "Willkommen im Changelog!",
-    "description": "The title of the website"
-  },
-  "tagline": {
-    "message": "In diesem Projekt erklären wir die neuesten Änderungen in SCNX.",
-    "description": "The tagline of the website"
   }
 }
