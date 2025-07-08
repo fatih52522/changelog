@@ -97,7 +97,6 @@ const config = {
       image: 'img/favico.ico',
       navbar: {
         title: 'Changelog',
-        description: 'Welcome to Changelog!',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favico.ico',
