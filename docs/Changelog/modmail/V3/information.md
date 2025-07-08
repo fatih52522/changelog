@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Information you need to know 
 Welcome to the V3 Modmail version of SCNX!
 If you decide to switch from the stable version of Modmail to the V3 beta, please keep in mind that this version is still in active development. You should expect bugs, crashes, and overall unstable behavior. It is not recommended for production use, especially if you rely on Modmail for important or everyday communication.
