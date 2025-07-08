@@ -94,9 +94,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/favico.ico',
       navbar: {
         title: 'Changelog',
+        description: 'Welcome to Changelog!',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favico.ico',
