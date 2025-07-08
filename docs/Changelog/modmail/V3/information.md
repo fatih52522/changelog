@@ -12,4 +12,6 @@ https://membership.scootkit.com
 
 Level 2 membership starts at €3.99/month (billed yearly) or €4.32/month (billed monthly) — these prices apply to users in the EU and may vary depending on your region and local taxes.
 
+Important: If your Early Access expires or you lose your membership, your bot will no longer be able to start while it's running on the V3 beta. You will need to switch back to the stable version first in order to use the bot as usual.
+
 Please note that there is no official release date for when the stable version of Modmail V3 will be available. Until then, we recommend staying on the current stable release unless you're comfortable testing beta features and providing feedback.
