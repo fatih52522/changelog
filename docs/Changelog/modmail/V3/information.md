@@ -4,7 +4,7 @@ If you decide to switch from the stable version of Modmail to the V3 beta, pleas
 
 For example, there have already been cases where a user’s bot was unable to start after switching to the beta version, due to unexpected internal errors. The user had to contact support and wait several hours until someone could respond and help resolve the issue. Situations like this can happen at any time while using the beta.
 ![image](./image.png)
-*Image granted access by user* 
+*Image granted access by user*.
 *translated: Error 0 occurred while starting the bot.*
 
 Access to the V3 beta is not available to everyone. It is currently limited to users with Early Access, which can be unlocked by reaching ScootKit Membership Level 2. You can learn more and upgrade at:
