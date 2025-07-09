@@ -103,10 +103,6 @@ const config = {
         },
         items: [
           {
-            to: '/docs/category/changelog',
-            label: 'Intro',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
