@@ -3,52 +3,28 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.changelog": {
-    "message": "changelog",
-    "description": "The label for category changelog in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.changelog.link.generated-index.description": {
-    "message": "Wilkommen in Changelog! Wähle welches Bot du sehen möchtest.",
-    "description": "The generated-index page description for category changelog in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Beta": {
     "message": "Beta",
     "description": "The label for category Beta in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Beta.link.generated-index.description": {
-    "message": "SCNX Beta changelog",
-    "description": "The generated-index page description for category Beta in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Discord Bot": {
     "message": "Discord Bot",
     "description": "The label for category Discord Bot in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Discord Bot.link.generated-index.description": {
-    "message": "Willkommen im Discord-Bot-Bereich! Wählen Sie die Version aus, die Sie sehen möchten.",
-    "description": "The generated-index page description for category Discord Bot in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.V3": {
     "message": "V3",
     "description": "The label for category V3 in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.V3.link.generated-index.description": {
-    "message": "SCNX V3 (Stabil) changelog",
-    "description": "The generated-index page description for category V3 in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Stable": {
     "message": "Stabil",
     "description": "The label for category Stable in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Stable.link.generated-index.description": {
-    "message": "SCNX Modmail (Stabil) changelog",
-    "description": "The generated-index page description for category Stable in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.modmail": {
     "message": "modmail",
     "description": "The label for category modmail in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.modmail.link.generated-index.description": {
-    "message": "Willkommen bei Modmail! Wählen Sie die Version aus, die Sie sehen möchten.",
-    "description": "The generated-index page description for category modmail in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Changelog": {
+    "message": "Changelog",
+    "description": "The label for category Changelog in sidebar tutorialSidebar"
   }
 }
