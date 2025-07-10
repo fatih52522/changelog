@@ -127,7 +127,7 @@ const config = {
                 href: 'https://discord.gg/XZGGb27zdE',
               },
               {
-                label: 'SCNX',
+                label: 'SCNX (referral link)',
                 href: 'https://scnx.app/referral?code=MHtz3IGIns4a8ntj0Dc7sk8kwnqWIP2D2SIC',
               },
             ],
@@ -150,7 +150,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

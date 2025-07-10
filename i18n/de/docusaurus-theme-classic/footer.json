@@ -27,10 +27,6 @@
     "message": "Discord (changelog)",
     "description": "The label of footer link with label=Discord (changelog) linking to https://discord.gg/XZGGb27zdE"
   },
-  "link.item.label.SCNX": {
-    "message": "SCNX",
-    "description": "The label of footer link with label=SCNX linking to https://scnx.app/referral?code=MHtz3IGIns4a8ntj0Dc7sk8kwnqWIP2D2SIC"
-  },
   "link.item.label.SCNX Docs": {
     "message": "SCNX Docs",
     "description": "The label of footer link with label=SCNX Docs linking to https://docs.scnx.xyz"
@@ -46,5 +42,9 @@
   "copyright": {
     "message": "Copyright © 2025 My Project, Inc. Gebaut mit Docusaurus.",
     "description": "The footer copyright"
+  },
+  "link.item.label.SCNX (referral link)": {
+    "message": "SCNX (referral link)",
+    "description": "The label of footer link with label=SCNX (referral link) linking to https://scnx.app/referral?code=MHtz3IGIns4a8ntj0Dc7sk8kwnqWIP2D2SIC"
   }
 }
