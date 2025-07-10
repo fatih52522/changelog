@@ -37,7 +37,7 @@ const sidebars = {
         },
         {
           type: 'category',
-          label: 'modmail',
+          label: 'Modmail',
           items: [
             {
               type: 'category',
