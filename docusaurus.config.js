@@ -34,7 +34,7 @@ const config = {
       }
     }
   },
-
+  
   presets: [
     [
       'classic',
@@ -158,5 +158,4 @@ const config = {
       },
     }),
 };
-
 export default config;
