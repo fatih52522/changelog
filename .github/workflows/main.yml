@@ -1,0 +1,35 @@
+name: Check if translations are committed
+
+on:
+  pull_request:
+    branches: [main]  # oder dein Ziel-Branch
+
+jobs:
+  check-translations:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Run write-translations
+        run: yarn write-translations -- --locale de
+
+      - name: Check for uncommitted changes
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "❌ Die Übersetzungen wurden nicht committed. Bitte 'yarn write-translations -- --locale de' ausführen und die Änderungen committen."
+            git status
+            exit 1
+          else
+            echo "✅ Übersetzungen sind aktuell."
+          fi
