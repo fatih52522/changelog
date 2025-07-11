@@ -6,7 +6,6 @@ import '../css/custom.css';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import Translate from '@docusaurus/Translate';
-import { Analytics } from "@vercel/analytics/next"
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
