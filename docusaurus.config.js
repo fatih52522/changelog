@@ -1,6 +1,7 @@
 // @ts-check
 
 import {themes as prismThemes} from 'prism-react-renderer';
+require('dotenv').config();
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -60,15 +61,6 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
-    ],
-  ],
-
-  plugins: [
-    [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
-      ({
-        hashed: true,
       }),
     ],
   ],
@@ -155,6 +147,14 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+
+      algolia: {
+        appId: process.env.ALGOLIA_APP_ID,
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: 'changelog',
+        contextualSearch: true,
+        searchPagePath: 'search',
       },
     }),
 };
