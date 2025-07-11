@@ -1,3 +1,6 @@
+---
+id: Haftungsausschluss
+---
 # Kein offizieller SCNX-Dienst, keine Verbindung zu ScootKit
 
 Dies ist ein **unabhängiges, von der Community betriebenes Projekt**, das **vollständig getrennt** von ScootKit und dessen offiziellen SCNX-Diensten betrieben wird.  

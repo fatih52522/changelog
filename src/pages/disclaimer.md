@@ -1,3 +1,6 @@
+---
+id: Disclaimer
+---
 # Not an official SCNX service, not affiliated with ScootKit
 
 This is an **independent, community-driven project** that operates **entirely separately** from ScootKit and its official SCNX services.  
