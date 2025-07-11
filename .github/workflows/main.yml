@@ -2,7 +2,7 @@ name: Check if translations are committed
 
 on:
   pull_request:
-    branches: [main]  # oder dein Ziel-Branch
+    branches: [main]
 
 jobs:
   check-translations:
