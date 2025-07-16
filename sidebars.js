@@ -13,6 +13,13 @@ const sidebars = {
     'Intro',
     {
       type: 'category',
+      label: 'News',
+      items: [
+        'News/discount',
+      ]
+    },
+    {
+      type: 'category',
       label: 'Changelog',
       items: [
         {

@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Modmail": {
     "message": "Modmail",
     "description": "The label for category Modmail in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.News": {
+    "message": "Neuigkeiten",
+    "description": "The label for category News in sidebar tutorialSidebar"
   }
 }
