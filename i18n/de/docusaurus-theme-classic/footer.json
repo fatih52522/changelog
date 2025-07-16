@@ -46,5 +46,9 @@
   "link.item.label.SCNX (referral link)": {
     "message": "SCNX (referral link)",
     "description": "The label of footer link with label=SCNX (referral link) linking to https://scnx.app/referral?code=MHtz3IGIns4a8ntj0Dc7sk8kwnqWIP2D2SIC"
+  },
+  "link.item.label.Privacy": {
+    "message": "Datenschutzerklärung",
+    "description": "The label of footer link with label=Privacy linking to /privacy"
   }
 }

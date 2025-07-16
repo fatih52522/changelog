@@ -98,6 +98,10 @@ const config = {
             title: 'Changelog',
             items: [
               {
+                label: 'Privacy',
+                to: '/privacy',
+              },
+              {
                 label: 'Disclaimer',
                 to: '/disclaimer',
               },
