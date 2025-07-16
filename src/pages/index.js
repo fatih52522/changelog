@@ -7,6 +7,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import Translate from '@docusaurus/Translate';
 import { SpeedInsights } from '@vercel/speed-insights/react';
+import { Analytics } from '@vercel/analytics/react';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -54,6 +55,7 @@ export default function Home() {
       <HomepageHeader />
       <main />
       <SpeedInsights />
+      <Analytics />
     </Layout>
   );
 }
