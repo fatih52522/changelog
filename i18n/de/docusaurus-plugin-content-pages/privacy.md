@@ -50,4 +50,4 @@ Da wir keine personenbezogenen Daten verarbeiten, werden keine personenbezogenen
 
 Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen, z. B. aufgrund rechtlicher Änderungen oder der Einführung neuer Technologien.
 
-Letzte Aktualisierung: Juli 2025.
+Letzte Aktualisierung: 16 Juli 2025.
