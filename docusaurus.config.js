@@ -156,7 +156,7 @@ const config = {
       algolia: {
         appId: process.env.ALGOLIA_APP_ID,
         apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: 'changelog',
+        indexName: 'changelog_pages',
       },
     }),
 };
