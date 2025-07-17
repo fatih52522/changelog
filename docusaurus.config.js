@@ -42,9 +42,15 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
+          editUrl: ({ locale, docPath }) => {
+            if (locale === 'de') {
+              return `https://github.com/fatih5252/changelog/tree/main/i18n/de/docusaurus-plugin-content-docs/current/${docPath}`;
+            }
+            return `https://github.com/fatih5252/changelog/tree/main/docs/${docPath}`;
+        },
           sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/Fatih5252/changelog/tree/main/',
         },
         blog: {
           showReadingTime: true,
