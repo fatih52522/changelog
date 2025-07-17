@@ -15,6 +15,7 @@ const sidebars = {
       type: 'category',
       label: 'News',
       items: [
+        'News/linked-roles',
         'News/discount',
       ]
     },
@@ -66,6 +67,13 @@ const sidebars = {
                 'Changelog/modmail/V3/04-06-2025',
               ],
             },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Linked Roles',
+          items: [
+            'Changelog/linked-roles/welcome',
           ],
         },
       ],
