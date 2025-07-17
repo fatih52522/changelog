@@ -49,7 +49,7 @@ const config = {
               return `https://github.com/fatih5252/changelog/tree/main/i18n/de/docusaurus-plugin-content-docs/current/${docPath}`;
             }
             return `https://github.com/fatih5252/changelog/tree/main/docs/${docPath}`;
-        },
+          },
           sidebarPath: './sidebars.js',
         },
         blog: {
