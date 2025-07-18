@@ -45,5 +45,9 @@
   mask-image: url('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg');
   mask-repeat: no-repeat;
   mask-position: center;
+  background-color: black;
+}
+
+[data-theme='dark'] .header-github-link {
   background-color: white;
 }
