@@ -39,8 +39,10 @@
 }
 
 .header-github-link {
-  mask: url(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg) no-repeat center;
-  background-color: white;
   width: 24px;
   height: 24px;
+  mask-image: url('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg');
+  mask-repeat: no-repeat;
+  mask-position: center;
+  background-color: white;
 }
