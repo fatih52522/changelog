@@ -92,9 +92,9 @@ const config = {
           },
           {
             href: 'https://github.com/fatih5252/changelog',
-            position: 'right',
+            label: 'GitHub',
             className: 'header-github-link',
-            'aria-label': 'GitHub repository',
+            position: 'right',
           },
         ],
       },
