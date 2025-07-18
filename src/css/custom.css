@@ -39,6 +39,7 @@
 }
 
 .header-github-link {
+  display: inline-block;
   width: 24px;
   height: 24px;
   mask-image: url('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg');
