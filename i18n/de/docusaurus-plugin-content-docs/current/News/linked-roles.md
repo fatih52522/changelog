@@ -7,9 +7,9 @@ Die **Linked Roles**-Funktion ist seit dem **17. Juli 2025** für **alle Mitglie
 
 Mit Linked Roles kannst du Rollen erhalten, die der Besitzer erstellt, wenn du berechtigt bist, diese Rolle zu erhalten.
 
-> ⚠️ **Hinweis:**  
-> Um die Linked Roles-Funktion in deinem eigenen Discord-Server zu aktivieren, benötigst du mindestens den **Professional-** oder **Unlimited-Plan** von SCNX. Weitere Informationen findest du hier: https://scnx.app/glink?page=pricing  
-> Dadurch erhältst du Zugriff auf Linked-Roles.
+:::info
+Um Linked Roles zu aktivieren, benötigst du mindestens den **Professional-** oder **Unlimited-Plan** von SCNX. Weitere Informationen findest du hier: https://scnx.app/glink?page=pricing.
+:::
 
 📘 Eine ausführliche Schritt-für-Schritt-Anleitung zur Einrichtung und Nutzung findest du in den offiziellen **SCNX Docs** hier:  
 👉 [https://docs.scnx.xyz/docs/linked-roles/intro/](https://docs.scnx.xyz/docs/linked-roles/intro/)
