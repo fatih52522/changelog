@@ -34,5 +34,9 @@
   "sidebar.tutorialSidebar.category.Linked Roles": {
     "message": "Verknüpfte Rollen",
     "description": "The label for category Linked Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Not Anounced": {
+    "message": "Nicht Angekündigt",
+    "description": "The label for category Not Anounced in sidebar tutorialSidebar"
   }
 }

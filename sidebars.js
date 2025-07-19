@@ -41,6 +41,13 @@ const sidebars = {
                 'Changelog/discord-bot/Beta/Welcome',
               ],
             },
+            {
+              type: 'category',
+              label: 'Not Anounced',
+              items: [
+                'Changelog/discord-bot/not-anounced/New-server',
+              ],
+            },
           ],
         },
         {
