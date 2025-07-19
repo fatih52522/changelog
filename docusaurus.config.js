@@ -161,10 +161,11 @@ const config = {
       },
 
       algolia: {
-        appId: process.env.ALGOLIA_APP_ID,
-        apiKey: process.env.ALGOLIA_API_KEY,
+        appId: '5TK6ZB9Z16',
+        apiKey: 'c901d5acb927574ffb80164b3ac5f5d8',
         indexName: 'changelog1',
         contextualSearch: true,
+        searchPagePath: 'search',
       },
     }),
 };
