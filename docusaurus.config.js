@@ -166,6 +166,8 @@ const config = {
         indexName: 'changelog1',
         contextualSearch: true,
         searchPagePath: 'search',
+        placeholder: 'Search docs...',
+        searchParameters: {},
       },
     }),
 };
