@@ -163,7 +163,7 @@ const config = {
       algolia: {
         appId: '5TK6ZB9Z16',
         apiKey: 'c901d5acb927574ffb80164b3ac5f5d8',
-        indexName: 'changelog1',
+        indexName: 'crawler_changeloga',
         contextualSearch: true,
         searchPagePath: 'search',
         placeholder: 'Search docs...',
