@@ -1,6 +1,7 @@
 // @ts-check
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import rssDocsPlugin from './plugins/rssDocsPlugin';
 require('dotenv').config();
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -70,6 +71,8 @@ const config = {
       }),
     ],
   ],
+
+  plugins: [rssDocsPlugin],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
