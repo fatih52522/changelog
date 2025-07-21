@@ -5,17 +5,17 @@ Hier findest du eine **Schritt-für-Schritt-Anleitung**, wie du den Hosting-Serv
 ---
 
 ## 1️⃣ Gehe auf [https://scnx.app](https://scnx.app) und wähle deinen Server aus.
-![image](../../../src/pages/img/serverde.png)
+![image](../../../static/img/serverde.png)
 
 ---
 
 ## 2️⃣ Wähle, bei welchem Bot du den Server ändern möchtest – entweder beim **Custom Bot** oder beim **Modmail Bot**.
-![image](../../../src/pages/img/choosede.png)
+![image](../../../static/img/choosede.png)
 
 ---
 
 ## 3️⃣ Sobald du im Dashboard bist, klicke auf den **"Wechseln"-Button** neben „Server XX“.
-![image](../../../src/pages/img/wechselnde.png)
+![image](../../../static/img/wechselnde.png)
 
 ---
 
