@@ -1,6 +1,14 @@
 ---
 title: Linked roles
+description: Linked roles are out for everyone!
+date: 2025-07-18T17:34
+authors:
+  - Fatih
+tags:
+  - Linked-roles
+  - SCNX
 ---
+<!-- truncate -->
 # Linked roles are out for everyone!
 
 The **Linked Roles** feature has been available to **all members on SCNX** since **July 17, 2025** a **SCNX Level 2 membership is no longer required!** 🔓  

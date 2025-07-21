@@ -1,6 +1,14 @@
 ---
 title: Verknüpfte Rollen
+description: Verknüpfte Rollen sind jetzt für alle verfügbar!
+date: 2025-07-18T17:34
+authors:
+  - Fatih
+tags:
+  - Verknüpfte-Rollen
+  - SCNX
 ---
+<!-- truncate -->
 # Verknüpfte Rollen sind jetzt für alle verfügbar!
 
 Die **Linked Roles**-Funktion ist seit dem **17. Juli 2025** für **alle Mitglieder auf SCNX** verfügbar – eine **SCNX-Mitgliedschaft Level 2 ist nicht mehr erforderlich!** 🔓

@@ -87,6 +87,11 @@ const config = {
             position: 'left',
           },
           {
+            label: 'News',
+            to: '/blog',
+            position: 'left',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
