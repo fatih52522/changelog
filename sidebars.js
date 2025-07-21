@@ -32,6 +32,7 @@ const sidebars = {
               label: 'V3',
               items: [
                 'Changelog/discord-bot/V3/v3.20.5',
+                'Changelog/discord-bot/V3/test',
               ]
             },
             {
