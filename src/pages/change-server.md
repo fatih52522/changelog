@@ -20,7 +20,7 @@ Here is a **step-by-step tutorial** on how to change the hosting server in SCNX.
 ---
 
 ## 4️⃣ Choose a new server.
-There are a total of **29 servers** available (with 3 of them offering **Premium Hosting**).  
+There are a total of **31 servers** available (with 3 of them offering **Premium Hosting**).  
 After selecting your new server, scroll down and click on the **red “Confirm” button**. Wait a few seconds.
 
 If the change is **successful**, congratulations! 🎉 You’ve just changed the hosting server of your Discord bot.

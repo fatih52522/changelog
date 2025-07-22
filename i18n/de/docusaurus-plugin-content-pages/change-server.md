@@ -20,7 +20,7 @@ Hier findest du eine **Schritt-für-Schritt-Anleitung**, wie du den Hosting-Serv
 ---
 
 ## 4️⃣ Wähle einen neuen Server aus.  
-Es gibt insgesamt **29 Server** (davon bieten **3 Server Premium-Hosting** an).  
+Es gibt insgesamt **31 Server** (davon bieten **3 Server Premium-Hosting** an).  
 Nachdem du deinen neuen Server ausgewählt hast, scrolle nach unten und klicke auf den **roten "Bestätigen"-Button**. Warte ein paar Sekunden.
 
 Wenn der Wechsel **erfolgreich** ist: Glückwunsch! 🎉 Du hast den Hosting-Server deines Discord-Bots erfolgreich geändert.

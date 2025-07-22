@@ -58,8 +58,9 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl:
-            'https://github.com/Fatih5252/changelog/tree/main/',
+          editUrl: ({ blogDirPath, blogPath, permalink }) => {
+            return `https://github.com/fatih5252/changelog/tree/main/${blogDirPath}/${blogPath}`;
+          },
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
