@@ -12,6 +12,11 @@ const sidebars = {
   tutorialSidebar: [
     'Intro',
     {
+      type: 'link',
+      label: 'News',
+      href: 'https://www.scnx-changelog.de/blog'
+    },
+    {
       type: 'category',
       label: 'Changelog',
       items: [
