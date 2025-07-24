@@ -34,5 +34,9 @@
   "sidebar.tutorialSidebar.category.Not Anounced": {
     "message": "Nicht Angekündigt",
     "description": "The label for category Not Anounced in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.News": {
+    "message": "Neuigkeiten",
+    "description": "The label for link News in sidebar tutorialSidebar, linking to https://www.scnx-changelog.de/blog"
   }
 }
