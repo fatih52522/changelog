@@ -10,7 +10,7 @@ If you **don’t pay**, you are required to **watch a video every 7 days** to ke
 ### 🚫 New Behavior When Switching Tabs:
 
 - If you start watching a video and **switch tabs**, the video will **automatically pause**.
-- The video will **resume only when you return to the tab and click on play**.
+- The video will **resume only when you return to the tab and click on Start Video**.
 - You must **stay on the same tab**, otherwise the video will **stop every time** you switch tabs or open another application.
 
 ---
