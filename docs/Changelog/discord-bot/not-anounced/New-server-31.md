@@ -1,5 +1,5 @@
 ---
-title: New Hosting-Server
+title: V0.0.1 New Hosting-Server
 ---
 # New Hosting Server Added to SCNX! (Server #31)
 

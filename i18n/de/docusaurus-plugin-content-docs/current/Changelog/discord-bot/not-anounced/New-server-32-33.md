@@ -1,5 +1,5 @@
 ---
-title: Hosting 32 und 33 hinzugefügt
+title: V0.0.3 Hosting 32 und 33 hinzugefügt
 ---
 
 # Neue Hosting-Server bei SCNX! (Server #32 und #33)

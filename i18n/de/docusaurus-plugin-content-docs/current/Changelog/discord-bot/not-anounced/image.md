@@ -1,5 +1,5 @@
 ---
-title: Bildkorrekturen & neue Funktion
+title: V0.0.2 Bildkorrekturen & neue Funktion
 ---
 In diesem Update hat SCNX einen Fehler behoben und einen neuen Button zur Bildergalerie hinzugefügt.
 
