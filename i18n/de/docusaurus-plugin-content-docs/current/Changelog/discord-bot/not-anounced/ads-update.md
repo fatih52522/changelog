@@ -16,4 +16,6 @@ Wenn du **nicht zahlst**, musst du **alle 7 Tage ein Video ansehen**, um **alle 
 
 ---
 
+![gif](../../../../../../../static/img/ads.gif)
+
 Diese Änderungen sollen sicherstellen, dass Werbeanzeigen tatsächlich angesehen werden.

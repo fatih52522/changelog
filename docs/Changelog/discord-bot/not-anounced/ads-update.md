@@ -15,4 +15,6 @@ If you **don’t pay**, you are required to **watch a video every 7 days** to ke
 
 ---
 
+![gif](../../../../static/img/ads.gif)
+
 These changes are intended to ensure that ads are actually being watched.
