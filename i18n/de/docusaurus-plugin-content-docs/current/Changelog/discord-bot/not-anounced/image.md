@@ -1,6 +1,8 @@
 ---
 title: V0.0.2 Bildkorrekturen & neue Funktion
 ---
+# Bildkorrekturen & neue Funktion
+
 In diesem Update hat SCNX einen Fehler behoben und einen neuen Button zur Bildergalerie hinzugefügt.
 
 ## Neuer Button „Mehr Bilder laden“ hinzugefügt

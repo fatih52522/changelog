@@ -1,6 +1,8 @@
 ---
 title: V0.0.2 Image fixes & feature
 ---
+# Image fixes & feature
+
 In this update, SCNX fixed a bug and added a new button to the image gallery.
 
 ## New button called "Load more images" added
