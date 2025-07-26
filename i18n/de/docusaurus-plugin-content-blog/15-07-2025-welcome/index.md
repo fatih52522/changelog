@@ -13,6 +13,6 @@ Auf dieser Seite werde ich die neuesten Neuigkeiten über **SCNX** veröffentlic
 **(Keine Changelogs!** Die Changelogs findest du unter: [https://scnx-changelog.de/docs/intro](https://scnx-changelog.de/docs/intro) **)**  
 
 Außerdem unterstützen wir auch **RSS-Feeds**!  
-Du kannst den Feed hier abonnieren: [https://scnx-changelog.de/blog/rss.xml](https://scnx-changelog.de/blog/rss.xml)  
+Du kannst den Feed hier abonnieren: [https://www.scnx-changelog.de/blog/rss.xml](https://www.scnx-changelog.de/blog/rss.xml)  
 
 Viel Spaß beim Lesen!
