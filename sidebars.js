@@ -85,6 +85,89 @@ const sidebars = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'Guide',
+      items: [
+        {
+          type: 'link',
+          label: 'Add a Server to SCNX',
+          href: 'https://docs.scnx.xyz/docs/setup/'
+        },
+        {
+          type: 'link',
+          label: 'Basics',
+          href: 'https://docs.scnx.xyz/docs/scnx/guilds/bots/',
+        },
+        {
+          type: 'link',
+          label: 'Analytics',
+          href: 'https://docs.scnx.xyz/docs/scnx/guilds/analytics/'
+        },
+        {
+          type: 'link',
+          label: 'Server Backup',
+          href: 'https://docs.scnx.xyz/docs/scnx/guilds/backups/'
+        },
+        {
+          type: 'link',
+          label: 'Trusted Admins',
+          href: 'https://docs.scnx.xyz/docs/scnx/guilds/trusted-admins/'
+        },
+        {
+          type: 'link',
+          label: 'dcserver.link',
+          href: 'https://docs.scnx.xyz/docs/scnx/guilds/dcserver-link/'
+        },
+        {
+          type: 'link',
+          label: 'Suggest new features',
+          href: 'https://feedback.scnx.xyz'
+        },
+        {
+          type: 'category',
+          label: 'Custom Bot',
+          items: [
+            {
+              type: 'link',
+              label: 'Create a custom Bot',
+              href: 'https://docs.scnx.xyz/docs/custom-bot/',
+            },
+            {
+              type: 'link',
+              label: 'Modules',
+              href: 'https://docs.scnx.xyz/docs/custom-bot/modules/'
+            },
+            {
+              type: 'link',
+              label: 'Custom Commands (only in German)',
+              href: 'https://scnx.tips/scnx-eigene-befehle/'
+            }
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Modmail',
+          items: [
+            {
+              type: 'link',
+              label: 'Create a Modmail Bot',
+              href: 'https://docs.scnx.xyz/docs/modmail/',
+            },
+            {
+              type: 'link',
+              label: 'Configure Modmail',
+              href: 'https://docs.scnx.xyz/docs/modmail/configuration/'
+            },
+            {
+              type: 'link',
+              label: 'Advanced features',
+              href: 'https://docs.scnx.xyz/docs/modmail/advanced-features/'
+            },
+          ],
+        },
+      ],
+    },
   ],
 };
 export default sidebars;

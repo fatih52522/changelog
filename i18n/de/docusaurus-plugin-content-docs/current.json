@@ -38,5 +38,65 @@
   "sidebar.tutorialSidebar.link.News": {
     "message": "Neuigkeiten",
     "description": "The label for link News in sidebar tutorialSidebar, linking to https://www.scnx-changelog.de/blog"
+  },
+  "sidebar.tutorialSidebar.category.Guide": {
+    "message": "Anleitung",
+    "description": "The label for category Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom Bot": {
+    "message": "Eigener Bot",
+    "description": "The label for category Custom Bot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Add a Server to SCNX": {
+    "message": "Einen Server zu SCNX hinzufügen",
+    "description": "The label for link Add a Server to SCNX in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/setup/"
+  },
+  "sidebar.tutorialSidebar.link.Basics": {
+    "message": "Grundlagen",
+    "description": "The label for link Basics in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/scnx/guilds/bots/"
+  },
+  "sidebar.tutorialSidebar.link.Analytics": {
+    "message": "Analysen",
+    "description": "The label for link Analytics in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/scnx/guilds/analytics/"
+  },
+  "sidebar.tutorialSidebar.link.Server Backup": {
+    "message": "Server Backup",
+    "description": "The label for link Server Backup in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/scnx/guilds/backups/"
+  },
+  "sidebar.tutorialSidebar.link.Trusted Admins": {
+    "message": "Trusted Admins",
+    "description": "The label for link Trusted Admins in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/scnx/guilds/trusted-admins/"
+  },
+  "sidebar.tutorialSidebar.link.dcserver.link": {
+    "message": "dcserver.link",
+    "description": "The label for link dcserver.link in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/scnx/guilds/dcserver-link/"
+  },
+  "sidebar.tutorialSidebar.link.Create a custom Bot": {
+    "message": "Erstelle einen eigenen Bot",
+    "description": "The label for link Create a custom Bot in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/custom-bot/"
+  },
+  "sidebar.tutorialSidebar.link.Modules": {
+    "message": "Module",
+    "description": "The label for link Modules in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/custom-bot/modules/"
+  },
+  "sidebar.tutorialSidebar.link.Custom Commands (only in German)": {
+    "message": "Eigene Befehle",
+    "description": "The label for link Custom Commands (only in German) in sidebar tutorialSidebar, linking to https://scnx.tips/scnx-eigene-befehle/"
+  },
+  "sidebar.tutorialSidebar.link.Create a Modmail Bot": {
+    "message": "Erstelle einen Modmail-Bot",
+    "description": "The label for link Create a Modmail Bot in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/modmail/"
+  },
+  "sidebar.tutorialSidebar.link.Configure Modmail": {
+    "message": "Modmail konfigurieren",
+    "description": "The label for link Configure Modmail in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/modmail/configuration/"
+  },
+  "sidebar.tutorialSidebar.link.Advanced features": {
+    "message": "Erweiterte Funktionen",
+    "description": "The label for link Advanced features in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/modmail/advanced-features/"
+  },
+  "sidebar.tutorialSidebar.link.Suggest new features": {
+    "message": "Neue Funktionen vorschlagen",
+    "description": "The label for link Suggest new features in sidebar tutorialSidebar, linking to https://feedback.scnx.xyz"
   }
 }
