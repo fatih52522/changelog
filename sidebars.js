@@ -92,7 +92,7 @@ const sidebars = {
         type: 'generated-index',
         title: 'Guide',
         description: 'Here, you can find all the guides from scnx Docs.',
-        slug: '/docs/guide'
+        slug: '/guide'
       },
       items: [
         {
