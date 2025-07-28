@@ -98,5 +98,77 @@
   "sidebar.tutorialSidebar.link.Suggest new features": {
     "message": "Neue Funktionen vorschlagen",
     "description": "The label for link Suggest new features in sidebar tutorialSidebar, linking to https://feedback.scnx.xyz"
+  },
+  "sidebar.tutorialSidebar.category.Guide.link.generated-index.title": {
+    "message": "Anleitung",
+    "description": "The generated-index page title for category Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guide.link.generated-index.description": {
+    "message": "Hier finden Sie alle Anleitungen von scnx Docs.",
+    "description": "The generated-index page description for category Guide in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SCNX": {
+    "message": "SCNX",
+    "description": "The label for category SCNX in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SCNX.link.generated-index.title": {
+    "message": "SCNX",
+    "description": "The generated-index page title for category SCNX in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SCNX.link.generated-index.description": {
+    "message": "SCNX ANleitungs Seite, auf dieser Seite geht es um SCNX-Funktionen, nicht um Bots.",
+    "description": "The generated-index page description for category SCNX in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom Bot.link.generated-index.title": {
+    "message": "Eigener Bot",
+    "description": "The generated-index page title for category Custom Bot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Custom Bot.link.generated-index.description": {
+    "message": "Eigener Bot Anleitungs seite, alle Links stammen von docs.scnx.xyz und scnx.tips",
+    "description": "The generated-index page description for category Custom Bot in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Modmail.link.generated-index.title": {
+    "message": "Modmail bot",
+    "description": "The generated-index page title for category Modmail in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Modmail.link.generated-index.description": {
+    "message": "Modmail-Bot Anleitungs Seite, alle Links stammen von docs.scnx.xyz",
+    "description": "The generated-index page description for category Modmail in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Linked Roles.link.generated-index.title": {
+    "message": "Verknüpfte Rollen",
+    "description": "The generated-index page title for category Linked Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Linked Roles.link.generated-index.description": {
+    "message": "Verknüpfte Rollen Anleitungs Seite, alle Links stammen von docs.scnx.xyz",
+    "description": "The generated-index page description for category Linked Roles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.link.Setup Linked-Roles": {
+    "message": "Einrichten verknüpfter Rollen",
+    "description": "The label for link Setup Linked-Roles in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/"
+  },
+  "sidebar.tutorialSidebar.link.About Linked-Roles": {
+    "message": "Über Verknüpfte Rollen",
+    "description": "The label for link About Linked-Roles in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/intro/"
+  },
+  "sidebar.tutorialSidebar.link.Manage Linked-Roles": {
+    "message": "Verknüpfte Rollen verwalten",
+    "description": "The label for link Manage Linked-Roles in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/role-management/"
+  },
+  "sidebar.tutorialSidebar.link.How to claim Linked Role": {
+    "message": "So beanspruchen Sie eine verknüpfte Rolle",
+    "description": "The label for link How to claim Linked Role in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/claim-roles/"
+  },
+  "sidebar.tutorialSidebar.link.Manage member's Linked-Roles": {
+    "message": "Verknüpfte Rollen der Mitglieder verwalten",
+    "description": "The label for link Manage member's Linked-Roles in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/user-management/"
+  },
+  "sidebar.tutorialSidebar.link.Troubleshooting": {
+    "message": "Fehlerbehebung",
+    "description": "The label for link Troubleshooting in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/troubleshooting/"
+  },
+  "sidebar.tutorialSidebar.link.Linked-Roles Configuration": {
+    "message": "Verknüpfte-Rollen Konfiguration",
+    "description": "The label for link Linked-Roles Configuration in sidebar tutorialSidebar, linking to https://docs.scnx.xyz/docs/linked-roles/settings/"
   }
 }

@@ -96,43 +96,61 @@ const sidebars = {
       },
       items: [
         {
-          type: 'link',
-          label: 'Add a Server to SCNX',
-          href: 'https://docs.scnx.xyz/docs/setup/'
-        },
-        {
-          type: 'link',
-          label: 'Basics',
-          href: 'https://docs.scnx.xyz/docs/scnx/guilds/bots/',
-        },
-        {
-          type: 'link',
-          label: 'Analytics',
-          href: 'https://docs.scnx.xyz/docs/scnx/guilds/analytics/'
-        },
-        {
-          type: 'link',
-          label: 'Server Backup',
-          href: 'https://docs.scnx.xyz/docs/scnx/guilds/backups/'
-        },
-        {
-          type: 'link',
-          label: 'Trusted Admins',
-          href: 'https://docs.scnx.xyz/docs/scnx/guilds/trusted-admins/'
-        },
-        {
-          type: 'link',
-          label: 'dcserver.link',
-          href: 'https://docs.scnx.xyz/docs/scnx/guilds/dcserver-link/'
-        },
-        {
-          type: 'link',
-          label: 'Suggest new features',
-          href: 'https://feedback.scnx.xyz'
+          type: 'category',
+          label: 'SCNX',
+          link: {
+            type: 'generated-index',
+            title: 'SCNX',
+            description: 'SCNX Guide Page, this page is about SCNX features not Bots.',
+            slug: '/guide/scnx',
+          },
+          items: [
+            {
+              type: 'link',
+              label: 'Add a Server to SCNX',
+              href: 'https://docs.scnx.xyz/docs/setup/'
+            },
+            {
+              type: 'link',
+              label: 'Basics',
+              href: 'https://docs.scnx.xyz/docs/scnx/guilds/bots/',
+            },
+            {
+              type: 'link',
+              label: 'Analytics',
+              href: 'https://docs.scnx.xyz/docs/scnx/guilds/analytics/'
+            },
+            {
+              type: 'link',
+              label: 'Server Backup',
+              href: 'https://docs.scnx.xyz/docs/scnx/guilds/backups/'
+            },
+            {
+              type: 'link',
+              label: 'Trusted Admins',
+              href: 'https://docs.scnx.xyz/docs/scnx/guilds/trusted-admins/'
+            },
+            {
+              type: 'link',
+              label: 'dcserver.link',
+              href: 'https://docs.scnx.xyz/docs/scnx/guilds/dcserver-link/'
+            },
+            {
+              type: 'link',
+              label: 'Suggest new features',
+              href: 'https://feedback.scnx.xyz'
+            },
+          ]
         },
         {
           type: 'category',
           label: 'Custom Bot',
+          link: {
+            type: 'generated-index',
+            title: 'Custom Bot',
+            description: 'Custom bot guide page, all links are from docs.scnx.xyz and scnx.tips',
+            slug: '/guide/custom-bot',
+          },
           items: [
             {
               type: 'link',
@@ -154,6 +172,12 @@ const sidebars = {
         {
           type: 'category',
           label: 'Modmail',
+          link: {
+            type: 'generated-index',
+            title: 'Modmail bot',
+            description: 'Modmail Bot guide page, all links are from docs.scnx.xyz',
+            slug: '/guide/modmail',
+          },
           items: [
             {
               type: 'link',
@@ -169,6 +193,53 @@ const sidebars = {
               type: 'link',
               label: 'Advanced features',
               href: 'https://docs.scnx.xyz/docs/modmail/advanced-features/'
+            },
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Linked Roles',
+          link: {
+            type: 'generated-index',
+            title: 'Linked-Roles',
+            description: 'Linked-Roles Guide Page, all links are from docs.scnx.xyz',
+            slug: '/guide/linked-roles',
+          },
+          items: [
+            {
+              type: 'link',
+              label: 'Setup Linked-Roles',
+              href: 'https://docs.scnx.xyz/docs/linked-roles/',
+            },
+            {
+              type: 'link',
+              label: 'About Linked-Roles',
+              href: 'https://docs.scnx.xyz/docs/linked-roles/intro/'
+            },
+            {
+              type: 'link',
+              label: 'Manage Linked-Roles',
+              href: 'https://docs.scnx.xyz/docs/linked-roles/role-management/', 
+            },
+            {
+              type: 'link',
+              label: 'How to claim Linked Role',
+              href: 'https://docs.scnx.xyz/docs/linked-roles/claim-roles/',
+            },
+            {
+              type: 'link',
+              label: `Manage member's Linked-Roles`,
+              href: 'https://docs.scnx.xyz/docs/linked-roles/user-management/',
+            },
+            {
+              type: 'link',
+              label: 'Troubleshooting',
+              href: 'https://docs.scnx.xyz/docs/linked-roles/troubleshooting/',
+            },
+            {
+              type: 'link',
+              label: 'Linked-Roles Configuration',
+              href: 'https://docs.scnx.xyz/docs/linked-roles/settings/',
             },
           ],
         },
