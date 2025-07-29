@@ -42,6 +42,7 @@ const sidebars = {
               type: 'category',
               label: 'Not Anounced',
               items: [
+                'Changelog/discord-bot/not-anounced/android-update',
                 'Changelog/discord-bot/not-anounced/ads-update',
                 'Changelog/discord-bot/not-anounced/New-server-32-33',
                 'Changelog/discord-bot/not-anounced/image',
