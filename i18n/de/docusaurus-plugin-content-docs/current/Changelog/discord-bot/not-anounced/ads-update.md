@@ -1,6 +1,5 @@
 ---
 title: V0.0.4 Werbeupdate
-slug: /de/Changelog/discord-bot/not-anounced/werbeupdate
 ---
 
 # Werbeupdate für kostenlose Nutzer

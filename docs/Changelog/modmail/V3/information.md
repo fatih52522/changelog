@@ -8,7 +8,7 @@ If you decide to switch from the stable version of Modmail to the V3 beta, pleas
 :::
 
 For example, there have already been cases where a user’s bot was unable to start after switching to the beta version, due to unexpected internal errors. The user had to contact support and wait several hours until someone could respond and help resolve the issue. Situations like this can happen at any time while using the beta.
-![image](./image.png)
+![image](@site/static/img/mv3.png)
 *Image granted access by user*.
 *translated: Error 0 occurred while starting the bot.*
 

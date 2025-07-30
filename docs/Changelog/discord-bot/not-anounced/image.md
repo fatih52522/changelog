@@ -11,13 +11,13 @@ When you have **26 or more pictures** stored in SCNX, this button will automatic
 
 This enhancement improves the user experience by making image browsing faster and more convenient, especially for users with large image libraries.
 
-![image](../../../../static/img/bilderladenen.png)
+![image](@site/static/img/bilderladenen.png)
 
 ## Bug fixed
 
 There was an error where you couldn't even see half of your image gallery.
 
-![image](../../../../static/img/error-image.png)
+![image](@site/static/img/error-image.png)
 
 This bug has been fixed.
 

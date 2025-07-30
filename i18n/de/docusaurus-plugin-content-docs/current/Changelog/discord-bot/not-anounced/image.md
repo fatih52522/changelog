@@ -11,13 +11,13 @@ Wenn du **26 oder mehr Bilder** in SCNX gespeichert hast, erscheint dieser Butto
 
 Diese Verbesserung sorgt für ein schnelleres und bequemeres Durchblättern, besonders für Nutzer mit großen Bildersammlungen.
 
-![image](../../../../../../../static/img/bilderladende.png)
+![image](@site/static/img/bilderladende.png)
 
 ## Fehler behoben
 
 Es gab einen Fehler, bei dem man nicht einmal die Hälfte seiner Bildergalerie sehen konnte.
 
-![image](../../../../../../../static/img/error-image.png)
+![image](@site/static/img/error-image.png)
 
 Dieser Fehler wurde behoben.
 
