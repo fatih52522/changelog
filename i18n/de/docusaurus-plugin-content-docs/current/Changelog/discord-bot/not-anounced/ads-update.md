@@ -1,5 +1,6 @@
 ---
 title: V0.0.4 Werbeupdate
+slug: /de/Changelog/discord-bot/not-anounced/werbeupdate
 ---
 
 # Werbeupdate für kostenlose Nutzer
@@ -16,6 +17,6 @@ Wenn du **nicht zahlst**, musst du **alle 7 Tage ein Video ansehen**, um **alle 
 
 ---
 
-![gif](../../../../../../../static/img/ads.gif)
+![gif](@site/static/img/ads.gif)
 
 Diese Änderungen sollen sicherstellen, dass Werbeanzeigen tatsächlich angesehen werden.
