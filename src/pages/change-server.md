@@ -5,17 +5,17 @@ Here is a **step-by-step tutorial** on how to change the hosting server in SCNX.
 ---
 
 ## 1️⃣ Go to [https://scnx.app](https://scnx.app) and select your server.
-![image](../../static/img/serveren.png)
+![image](@site/static/img/serveren.png)
 
 ---
 
 ## 2️⃣ Select which bot you want to change the server for — either the **Custom Bot** or the **Modmail Bot**.
-![image](../../static/img/chooseen.png)
+![image](@site/static/img/chooseen.png)
 
 ---
 
 ## 3️⃣ Once you are in the dashboard, click on the **Change** button next to “Server XX.”
-![image](../../static/img/wechselnen.png)
+![image](@site/static/img/wechselnen.png)
 
 ---
 
