@@ -35,6 +35,7 @@ const sidebars = {
               type: 'category',
               label: 'Beta',
               items: [
+                'Changelog/discord-bot/Beta/V3.20.6-2',
                 'Changelog/discord-bot/Beta/V3.20.6-1',
               ],
             },
