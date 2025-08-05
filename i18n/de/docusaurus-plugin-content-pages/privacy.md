@@ -1,6 +1,7 @@
 ---
 title: Datenschutzerklärung
 description: Informationen zum Datenschutz auf unserer Website
+hide_table_of_contents: true
 ---
 
 # Datenschutzerklärung

@@ -1,5 +1,6 @@
 ---
 id: Haftungsausschluss
+hide_table_of_contents: true
 ---
 # Kein offizieller SCNX-Dienst, keine Verbindung zu ScootKit
 

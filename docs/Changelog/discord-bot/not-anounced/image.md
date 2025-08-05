@@ -1,5 +1,6 @@
 ---
 title: V0.0.2 Image fixes & feature
+hide_table_of_contents: true
 ---
 # Image fixes & feature
 

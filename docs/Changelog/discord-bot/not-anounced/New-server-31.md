@@ -1,5 +1,6 @@
 ---
 title: V0.0.1 New Hosting-Server
+hide_table_of_contents: true
 ---
 # New Hosting Server Added to SCNX! (Server #31)
 

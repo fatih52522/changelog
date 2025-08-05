@@ -1,6 +1,3 @@
----
-sidebar_position: 1
----
 # Information you need to know 
 Welcome to the V3 Modmail version of SCNX!
 :::danger 

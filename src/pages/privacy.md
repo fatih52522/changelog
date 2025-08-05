@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 description: Information about data protection on our website
+hide_table_of_contents: true
 ---
 
 # Privacy Policy

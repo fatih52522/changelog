@@ -1,5 +1,6 @@
 ---
 title: V0.0.5 Android Update
+hide_table_of_contents: true
 ---
 # SCNX Android V1.0.0.6 Update
 

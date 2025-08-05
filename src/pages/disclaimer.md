@@ -1,5 +1,6 @@
 ---
 id: Disclaimer
+hide_table_of_contents: true
 ---
 # Not an official SCNX service, not affiliated with ScootKit
 

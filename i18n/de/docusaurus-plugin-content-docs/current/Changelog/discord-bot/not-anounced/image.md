@@ -1,5 +1,6 @@
 ---
 title: V0.0.2 Bildkorrekturen & neue Funktion
+hide_table_of_contents: true
 ---
 # Bildkorrekturen & neue Funktion
 

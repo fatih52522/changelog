@@ -1,5 +1,6 @@
 ---
 title: V0.0.4 ads Update
+hide_table_of_contents: true
 ---
 # Ads Update to free Users
 

@@ -1,3 +1,6 @@
+---
+hide_table_of_contents: true
+---
 # How to Change the Hosting Server in SCNX
 
 Here is a **step-by-step tutorial** on how to change the hosting server in SCNX. This guide works for both the **Custom Bot** and the **Modmail Bot**.

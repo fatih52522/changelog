@@ -1,5 +1,6 @@
 ---
 title: V0.0.4 Werbeupdate
+hide_table_of_contents: true
 ---
 
 # Werbeupdate für kostenlose Nutzer
