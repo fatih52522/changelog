@@ -462,7 +462,7 @@
     "description": "The text for the link to report missing results"
   },
   "theme.SearchModal.placeholder": {
-    "message": "Suche docs",
+    "message": "Suche docs...",
     "description": "The placeholder of the input of the DocSearch pop-up modal"
   }
 }
