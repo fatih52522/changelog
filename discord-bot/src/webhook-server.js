@@ -1,9 +1,10 @@
+// webhook-server.js
 const express = require('express');
 const bodyParser = require('body-parser');
 const { EmbedBuilder } = require('discord.js');
 
 const PORT = 3000;
-const CHANNEL_ID = '';
+const CHANNEL_ID = process.env.WEBHOOK_CHANNEL_ID;
 
 function startWebhookServer(bot) {
   const app = express();

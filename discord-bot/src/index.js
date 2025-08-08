@@ -14,10 +14,11 @@ const client = new Client({
 
 client.commands = new Collection();
 
+// Starte Webhook-Server, wenn Bot bereit ist
 client.once('ready', () => {
   startWebhookServer(client);
   checkStatus();
-  setInterval(checkStatus, 2 * 60 * 1000);
+  setInterval(checkStatus, 2 * 60 * 1000); // alle 2 Minuten Status checken
 });
 
 const functions = fs.readdirSync("./src/functions").filter(file => file.endsWith(".js"));
