@@ -3,7 +3,6 @@ title: Privacy Policy
 description: Information about data protection on our website
 hide_table_of_contents: true
 ---
-
 # Privacy Policy
 
 We appreciate your interest in our website. The protection of your personal data is important to us. Below we inform you about the type, scope, and purpose of the processing of personal data on this website.
